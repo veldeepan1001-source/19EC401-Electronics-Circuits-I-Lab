@@ -1,1 +1,1 @@
-# 19EC401-Electronics-Circuits-I-Lab
+# EC1419-Electronics Circuits-Lab
