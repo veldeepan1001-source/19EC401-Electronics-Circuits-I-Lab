@@ -4,7 +4,7 @@ FREQUENCY RESPONSE OF COMMON BASE AMPLIFIER
 </p>
 
 
-<img width="615" height="742" alt="image" src="https://github.com/user-attachments/assets/eb8c3208-d30c-4e8d-9fb0-3aacf2782ed6" />
+
 
 <img width="617" height="773" alt="image" src="https://github.com/user-attachments/assets/75678705-fa67-4806-a227-1ee219c33113" />
 
