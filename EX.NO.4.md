@@ -11,6 +11,7 @@ FREQUENCY RESPONSE OF COMMON COLLECTOR AMPLIFIER
 <img width="625" height="807" alt="image" src="https://github.com/user-attachments/assets/4c8a5229-15a4-48b6-91da-6359c198dfaf" />
 
 
+
 **TABULATION**
 
 <img width="610" height="353" alt="image" src="https://github.com/user-attachments/assets/2616cb93-957e-4380-993d-58733b0b79c2" />
