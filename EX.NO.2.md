@@ -3,7 +3,6 @@
 FREQUENCY RESPONSE OF COMMON EMITTER AMPLIFIER
 </p>
 
-
 <img width="615" height="742" alt="image" src="https://github.com/user-attachments/assets/b1348a2f-04cc-4be0-b905-82f33e8312d7" />
 
 
