@@ -25,11 +25,16 @@ REGULATED POWER SUPPLY
 
 
 **ATTACH TABULATION**
+![WhatsApp Image 2025-11-28 at 10 15 18_10805251](https://github.com/user-attachments/assets/92d8c934-edc5-4a40-9aae-27af70500cbb)
+![WhatsApp Image 2025-11-28 at 10 15 18_2aa26b1e](https://github.com/user-attachments/assets/3042a211-86b9-4b61-909e-75e3e48e034f)
 
 **ATTACH GRAPH**
+![WhatsApp Image 2025-11-28 at 10 15 19_be097598](https://github.com/user-attachments/assets/a589e75e-ee39-4160-8d89-f9573bd4e86a)
 
 <img width="572" height="334" alt="image" src="https://github.com/user-attachments/assets/b4206406-fdb7-44de-8fc8-ce6d793d27fd" />
 
 **RESULT**
 
 <img width="564" height="177" alt="image" src="https://github.com/user-attachments/assets/2b077c46-a900-4d55-839e-394745db61a8" />
+![WhatsApp Image 2025-11-28 at 10 15 19_13d1b76c](https://github.com/user-attachments/assets/91927a14-3ad0-4274-a362-e36eed591f0a)
+
