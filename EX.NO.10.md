@@ -5,5 +5,7 @@
 
 
 **ATTACH TINKERCAD CIRCUIT DIAGRAM**
-**ATTACH WAVE FORM**
+![WhatsApp Image 2025-11-28 at 10 35 55_d09d2b26](https://github.com/user-attachments/assets/f3cfa837-b734-4d01-8937-127fd5177c2f)
+![WhatsApp Image 2025-11-28 at 10 35 56_243bfa51](https://github.com/user-attachments/assets/a91cf416-e62b-4b98-8992-b76680a30667)
+
 <img width="571" height="151" alt="image" src="https://github.com/user-attachments/assets/dc7fef76-841f-448a-a790-bb197f17140d" />
