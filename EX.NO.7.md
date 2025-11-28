@@ -17,7 +17,7 @@
 
 
 ## *Result*
-
+Thus the wein bridge oscillation was designed and simulated using LT spice
 
 
 
