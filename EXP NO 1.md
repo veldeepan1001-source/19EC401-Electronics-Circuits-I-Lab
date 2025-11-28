@@ -36,5 +36,4 @@ REGULATED POWER SUPPLY
 **RESULT**
 
 <img width="564" height="177" alt="image" src="https://github.com/user-attachments/assets/2b077c46-a900-4d55-839e-394745db61a8" />
-![WhatsApp Image 2025-11-28 at 10 15 19_13d1b76c](https://github.com/user-attachments/assets/91927a14-3ad0-4274-a362-e36eed591f0a)
-
+![WhatsApp Image 2025-11-28 at 10 15 19_aad10f0f](https://github.com/user-attachments/assets/552b0819-3e5f-4b1c-987e-2dabd7948968)
